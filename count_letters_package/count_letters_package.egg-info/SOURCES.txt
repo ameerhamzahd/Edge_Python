@@ -1,0 +1,6 @@
+README.txt
+setup.py
+count_letters_package.egg-info/PKG-INFO
+count_letters_package.egg-info/SOURCES.txt
+count_letters_package.egg-info/dependency_links.txt
+count_letters_package.egg-info/top_level.txt
